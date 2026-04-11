@@ -313,7 +313,7 @@ Revision/Addition Description and Link:
 Initial Description and Link:
 | Author | Vignette | Package(s) | What It Covers | Dataset |
 |---|---|---|---|---|
-| Zihao Yu | [zihao_iris_vignette.Rmd](zihao_iris_vignette.Rmd) | dplyr, ggplot2 | grouped summaries, boxplots, scatter plot, pivot_longer|  [Kaggle](https://www.kaggle.com/datasets/uciml/iris?resource=download) |
+| Zihao Yu | [zihao_iris_vignette.Rmd](zihao_iris_vignette.Rmd) | dplyr, ggplot2 | pivot_longer, grouped summaries, boxplots, scatter plot|  [Kaggle](https://www.kaggle.com/datasets/uciml/iris?resource=download) |
 
 Revision/Addition Description and Link:
 
