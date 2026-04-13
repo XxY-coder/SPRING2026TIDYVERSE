@@ -1,8 +1,10 @@
-main
-# SPRING2026 TidyVerse Vignettes
+#This was created for the TidyVerse CREATE assignment for DATA 607. 
 
-A collaborative collection of R vignettes built by students in SPRING2026, each demonstrating how to use TidyVerse packages with real-world datasets.
+#The goal of this assignment was to create a vignette that could be used by our fellow cohort members. For my vignette, I chose dplyr (because of how useful it is!)
 
+
+#Additional note: This assignment led me to find TidyTuesdays with R on GitHub! Very cool repo that everyone should check out.
+=======
 ---
 
 ## How to Use This Repo
@@ -406,3 +408,4 @@ main
 
 #Samanthabarbaro
 Initial Description and Link: stringr demo, https://github.com/acatlin/SPRING2026TIDYVERSE/pull/11/changes/f0e79af7598a1bcb2ee17b27ca286814918d8bfa
+
