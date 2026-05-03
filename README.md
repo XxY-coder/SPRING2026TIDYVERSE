@@ -76,6 +76,10 @@ A central focus of the vignette was the genre field, since multiple genres were 
 
 Revision/Addition Description and Link:
 
+The original vignette, authored by Emily El Mouaquiten, was extended by incorporating additional TidyVerse packages, specifically tidyr and forcats. The extension added a pivot_wider() transformation to restructure the Bechdel outcome summary into a wider format, as well as a reordered bar chart using fct_reorder() to improve the readability of the Bechdel Test outcome categories.
+
+Link: https://github.com/bkchanderban/SPRING2026TIDYVERSE/blob/main/emily_elmouaquite_extended_by_brandon_chanderban.qmd
+
 # Chanice M
 Initial Description and Link:
 
